@@ -5,7 +5,7 @@
 This project is an end-to-end analysis of BlinkIT’s sales data using Excel, SQL, Python, and Power BI.
 The objective was to analyze sales performance, customer satisfaction, and inventory distribution using key metrics (KPIs) and dashboards.
 
-##🛠 Tools & Technologies Used
+🛠 Tools & Technologies Used
 
 Excel – Data cleaning, preprocessing, pivot tables, and dashboard creation
 
@@ -15,7 +15,7 @@ Python (Pandas, Matplotlib, Seaborn) – Exploratory Data Analysis (EDA) and vis
 
 Power BI – Interactive dashboard with KPIs and filters
 
-##📂 Business Requirement
+📂 Business Requirement
 
 The analysis was conducted to:
 
@@ -27,7 +27,7 @@ Evaluate inventory distribution
 
 Build dashboards for decision-making
 
-##✅ Key KPIs
+✅ Key KPIs
 
 Total Sales – Overall revenue generated
 
@@ -37,7 +37,7 @@ Number of Items Sold – Total count of items sold
 
 Average Rating – Customer satisfaction rating
 
-##📊 Analysis Performed
+📊 Analysis Performed
 
 Total Sales by Fat Content
 
@@ -51,7 +51,7 @@ Sales by Outlet Size & Location
 
 All Metrics by Outlet Type
 
-##📸 Dashboards & Visuals
+📸 Dashboards & Visuals
 📊 Excel Dashboard
 
 📊 Power BI Dashboard
@@ -70,7 +70,7 @@ Performed EDA and visualizations in Python
 
 Built an interactive Power BI dashboard
 
-##📊 Key Insights
+📊 Key Insights
 
 Low Fat items contributed more to total sales compared to Regular items
 
