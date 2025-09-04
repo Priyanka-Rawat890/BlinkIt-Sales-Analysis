@@ -81,3 +81,11 @@ Supermarket Type 1 outlets generated the most revenue
 Tier 3 cities outperformed Tier 1 and Tier 2 in sales
 
 Outlet size and establishment year influenced sales distribution
+
+
+excel link=  https://docs.google.com/spreadsheets/d/1mN_AYBhcziZ-Se-KOPx15B3WZZ55Y2Dp/edit?usp=sharing&ouid=109835531975614637095&rtpof=true&sd=true
+
+
+
+
+
