@@ -58,9 +58,6 @@ The analysis was conducted to:
 ### Excel Dashboard Preview  
 [Excel Dashboard](Excel/blinkit_Excel_Dashboard.png)
 
-### Python Visualizations  
-*(Insert a few charts as images from your notebook)*  
-
 ---
 
 ## 📁 Project Workflow  
