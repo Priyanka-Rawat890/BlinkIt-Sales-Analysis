@@ -86,6 +86,6 @@ Outlet size and establishment year influenced sales distribution
 excel link=  https://docs.google.com/spreadsheets/d/1mN_AYBhcziZ-Se-KOPx15B3WZZ55Y2Dp/edit?usp=sharing&ouid=109835531975614637095&rtpof=true&sd=true
 
 python= https://github.com/Priyanka-Rawat890/BlinkIt-Sales-Analysis/blob/main/blinkit%20python/Blinkit%20Analysis%20in%20Python.ipynb
-
+sql= https://github.com/Priyanka-Rawat890/BlinkIt-Sales-Analysis/blob/main/SQLQuery1.sql
 
 
