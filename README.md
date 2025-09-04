@@ -53,10 +53,10 @@ The analysis was conducted to:
 - 🖼️ **Dashboard (Preview):** See screenshots below  
 
 ### Power BI Dashboard Preview  
-[Blinkit Power BI Dashboard](blinkit_powerbi_snapshot.png)  
+![Blinkit Power BI Dashboard](blinkit_powerbi_snapshot.png)  
 
 ### Excel Dashboard Preview  
-[Excel Dashboard](Excel/blinkit_Excel_Dashboard.png)
+![Excel Dashboard](Excel/blinkit_Excel_Dashboard.png)
 
 ---
 
