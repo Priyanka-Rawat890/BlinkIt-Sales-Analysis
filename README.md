@@ -50,13 +50,13 @@ The analysis was conducted to:
 - 📊 **Excel Dashboard:** [View on Google Drive](https://docs.google.com/spreadsheets/d/1mN_AYBhcziZ-Se-KOPx15B3WZZ55Y2Dp/edit?usp=sharing&ouid=109835531975614637095&rtpof=true&sd=true)  
 - 🐍 **Python Notebook:** [View Notebook](https://github.com/Priyanka-Rawat890/BlinkIt-Sales-Analysis/blob/main/blinkit%20python/Blinkit%20Analysis%20in%20Python.ipynb)  
 - 🗄️ **SQL Queries:** [View SQL File](https://github.com/Priyanka-Rawat890/BlinkIt-Sales-Analysis/blob/main/SQLQuery1.sql)  
-- 🖼️ **Power BI Dashboard (Preview):** See screenshots below  
+- 🖼️ **Dashboard (Preview):** See screenshots below  
 
 ### Power BI Dashboard Preview  
-![Blinkit Power BI Dashboard](blinkit_powerbi_snapshot.png)  
+[Blinkit Power BI Dashboard](blinkit_powerbi_snapshot.png)  
 
 ### Excel Dashboard Preview  
-(Insert screenshot if available)
+[Excel Dashboard](Excel/blinkit_Excel_Dashboard.png)
 
 ### Python Visualizations  
 *(Insert a few charts as images from your notebook)*  
@@ -86,11 +86,5 @@ The analysis was conducted to:
 - 📌 [LinkedIn](https://linkedin.com/in/priyanka-rawat-398bb4337)  
 - 💻 [GitHub](https://github.com/Priyanka-Rawat890)  
 
-
-
-excel link=  https://docs.google.com/spreadsheets/d/1mN_AYBhcziZ-Se-KOPx15B3WZZ55Y2Dp/edit?usp=sharing&ouid=109835531975614637095&rtpof=true&sd=true
-
-python= https://github.com/Priyanka-Rawat890/BlinkIt-Sales-Analysis/blob/main/blinkit%20python/Blinkit%20Analysis%20in%20Python.ipynb
-sql= https://github.com/Priyanka-Rawat890/BlinkIt-Sales-Analysis/blob/main/SQLQuery1.sql
 
 
