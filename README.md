@@ -1,4 +1,4 @@
-# 🛒 BlinkIT Sales Analysis  
+# 🛒 E-commerce Sales Analysis  
 📊 End-to-End Data Project | Excel • SQL • Python • Power BI  
 
 ---
