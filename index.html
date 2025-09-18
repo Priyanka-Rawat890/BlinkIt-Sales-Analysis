@@ -3,98 +3,150 @@
 <head>
     <meta charset="UTF-8" />
     <title>BlinkIt Sales Analysis Project</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
     <style>
-        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
-        h1, h2 { color: #333; }
-        ul { list-style: none; padding: 0; }
-        ul li { margin-bottom: 5px; }
-        a { color: #1a73e8; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        img { max-width: 100%; height: auto; margin-bottom: 20px; }
-        .section { margin-bottom: 40px; }
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 40px;
+            background: #f4f6f8;
+            color: #222;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        h1 {
+            color: #2c3e50;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+        .section {
+            background: #fff;
+            padding: 20px 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #3498db;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 6px;
+            margin-bottom: 20px;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        ul li, ol li {
+            margin-bottom: 8px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .dashboards {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .dashboards img {
+            max-width: 45%;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            font-style: italic;
+            color: #888;
+        }
     </style>
 </head>
 <body>
-    <h1>BlinkIt E-commerce Sales Analysis</h1>
+    <header>
+        <h1>BlinkIt E-commerce Sales Analysis</h1>
+        <p><em>End-to-end project analyzing sales performance using Excel, SQL, Python & Power BI</em></p>
+    </header>
 
-    <div class="section">
+    <section class="section">
         <h2>Project Overview</h2>
-        <p>This project is an <strong>end-to-end analysis of BlinkIt’s sales data</strong>. The goal was to analyze sales performance, customer satisfaction, and inventory distribution using KPIs and dashboards.</p>
-    </div>
+        <p>This project provides detailed insights into BlinkIt’s sales data focusing on sales trends, customer satisfaction, and inventory across outlets using KPIs and dashboards.</p>
+    </section>
 
-    <div class="section">
-        <h2>Tools & Technologies Used</h2>
+    <section class="section">
+        <h2>Tools & Technologies</h2>
         <ul>
-            <li>Excel - Data cleaning, preprocessing, pivot tables, and dashboard creation</li>
-            <li>SQL - Queries to calculate KPIs and extract insights</li>
-            <li>Python (Pandas, Matplotlib, Seaborn) - Exploratory Data Analysis (EDA) and visualizations</li>
-            <li>Power BI - Interactive dashboard with KPIs and filters</li>
+            <li>Excel - Data preparation, pivot tables, dashboard creation</li>
+            <li>SQL - KPIs & data extraction queries</li>
+            <li>Python (Pandas, Matplotlib, Seaborn) - Data analysis & visualizations</li>
+            <li>Power BI - Interactive dashboards with filters & KPIs</li>
         </ul>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>Business Requirements</h2>
         <ul>
-            <li>Track sales performance across different outlets and product categories</li>
-            <li>Measure customer satisfaction through ratings</li>
-            <li>Evaluate inventory distribution</li>
-            <li>Build dashboards for decision-making</li>
+            <li>Analyze sales across outlets and product categories</li>
+            <li>Measure customer satisfaction scores</li>
+            <li>Evaluate inventory distribution effectiveness</li>
+            <li>Create dashboards to support decision-making</li>
         </ul>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>Key KPIs</h2>
         <ul>
             <li><strong>Total Sales</strong> - Overall revenue generated</li>
-            <li><strong>Average Sales</strong> - Average revenue per transaction</li>
-            <li><strong>Number of Items Sold</strong> - Total count of items sold</li>
-            <li><strong>Average Rating</strong> - Customer satisfaction rating</li>
+            <li><strong>Average Sales</strong> - Revenue per transaction</li>
+            <li><strong>Number of Items Sold</strong></li>
+            <li><strong>Average Rating</strong> - Customer satisfaction levels</li>
         </ul>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>Project Workflow</h2>
         <ol>
-            <li>Imported and cleaned the dataset in Excel</li>
-            <li>Created pivot tables and Excel dashboard</li>
-            <li>Wrote SQL queries for KPIs and insights</li>
-            <li>Performed EDA and visualizations in Python</li>
-            <li>Built an interactive Power BI dashboard</li>
+            <li>Cleaned and processed data in Excel</li>
+            <li>Created Excel dashboards with pivot tables</li>
+            <li>Wrote SQL scripts for data retrieval and KPIs</li>
+            <li>Analyzed data and created visuals using Python</li>
+            <li>Developed interactive Power BI dashboards</li>
         </ol>
-    </div>
+    </section>
 
-    <div class="section">
-        <h2>Dashboards & Visuals</h2>
-        <img src="blinkit_powerbi_snapshot.png" alt="Power BI Dashboard" />
-        <img src="blinkit_Excel_Dashboard.png" alt="Excel Dashboard" />
-    </div>
+    <section class="section dashboards">
+        <img src="blinkit_powerbi_snapshot.jpg" alt="Power BI Dashboard" />
+        <img src="blinkit_Excel_Dashboard.jpg" alt="Excel Dashboard" />
+    </section>
 
-    <div class="section">
-        <h2>Project Files</h2>
+    <section class="section">
+        <h2>Project Files & Links</h2>
         <ul>
             <li><a href="SQLQuery1.sql" target="_blank">SQL Queries</a></li>
             <li><a href="blinkit python/Blinkit Analysis in Python.ipynb" target="_blank">Python Notebook</a></li>
             <li><a href="financial_loan.csv" target="_blank">Dataset (CSV)</a></li>
             <li><a href="https://docs.google.com/spreadsheets/d/1mN_AYBhcziZ-Se-KOPx15B3WZZ55Y2Dp/edit?usp=sharing&ouid=109835531975614637095&rtpof=true&sd=true" target="_blank">Excel Dashboard (Live Link)</a></li>
         </ul>
-    </div>
+    </section>
 
-    <div class="section">
+    <section class="section">
         <h2>Key Insights</h2>
         <ul>
-            <li>Low Fat items contributed more to total sales compared to Regular items</li>
-            <li>Snack foods and dairy were the highest-selling product categories</li>
-            <li>Supermarket Type 1 outlets generated the most revenue</li>
-            <li>Tier 3 cities outperformed Tier 1 and Tier 2 in sales</li>
-            <li>Outlet size and establishment year influenced sales distribution</li>
+            <li>Low Fat items contributed more to total sales than Regular ones</li>
+            <li>Snack foods and dairy are the highest-selling categories</li>
+            <li>Supermarket Type 1 outlets generate the most revenue</li>
+            <li>Tier 3 cities outperform Tier 1 and 2 in sales</li>
+            <li>Outlet size & establishment year influence sales distribution</li>
         </ul>
-    </div>
+    </section>
 
-    <div class="section">
-        <h2>Author</h2>
-        <p>Priyanka Rawat – Aspiring Data Analyst</p>
-        <p>📌 <a href="https://linkedin.com/in/priyanka-rawat-398bb4337" target="_blank">LinkedIn</a></p>
-        <p>💻 <a href="https://github.com/Priyanka-Rawat890" target="_blank">GitHub</a></p>
-    </div>
+    <footer>
+        <p>© Priyanka Rawat - Aspiring Data Analyst | <a href="https://linkedin.com/in/priyanka-rawat-398bb4337" target="_blank">LinkedIn</a> | <a href="https://github.com/Priyanka-Rawat890" target="_blank">GitHub</a></p>
+    </footer>
 </body>
 </html>
